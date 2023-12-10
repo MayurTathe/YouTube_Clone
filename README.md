@@ -1,6 +1,6 @@
 # YouTube Clone
 
-<p>Bulid and Deployed "YouTube Clone" project.<br><strong><i> My first project utilized Tailwind CSS.</i></strong><br>Use YouTube API from Rapid API</p>
+<p>Bulid and Deployed "YouTube Clone" project from Scratch.<br><strong><i> My first project utilized Tailwind CSS.</i></strong><br>Use YouTube API from Rapid API</p>
 
 ## Technologies Used:
 
