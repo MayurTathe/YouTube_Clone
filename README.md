@@ -8,7 +8,7 @@
 
 ## What new things have I Learned?
 
-#### <p><i>Tailwind CSS,<br>Integrating External YouTube API for fetching data,<br></i></p>
+#### <p><i>Tailwind CSS,<br>Integrating External YouTube API for fetching data,<br>Live Deployement by using Netlify(Static)</i></p>
 
 
 ## reference..
