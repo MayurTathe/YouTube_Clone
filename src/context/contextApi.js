@@ -23,9 +23,7 @@ export const AppContext = (props) =>{
             }
         );
     };
-
-   
-
+    
     return (
         <Context.Provider value={
             {
